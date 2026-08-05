@@ -146,7 +146,7 @@ Combined the results of both statistical tests to arrive at a final, reduced fea
 Final Year BSSE Student, NUML Islamabad
 🔗 [GitHub](https://github.com/MuhammadAsadKhan-11)
 
-Part of a 30-day AI/ML revision series — follow along on [LinkedIn](#) for daily updates.
+Part of a 30-day AI/ML revision series — follow along on [LinkedIn](www.linkedin.com/in/muhammad-asad-khan-9a70243a3) for daily updates.
 
 ---
 
